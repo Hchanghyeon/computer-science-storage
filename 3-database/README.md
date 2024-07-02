@@ -1,0 +1,34 @@
+### 3️⃣ 데이터베이스(DB)
+- 관계형 데이터베이스
+    - 데이터베이스와 파일시스템의 차이
+    - 관계형 데이터베이스의 개념과 장단점
+    - DDL, DML, DCL, TCL
+    - Key(Primary, Unique, Foreign)
+- MySQL 아키텍처
+    - innodb
+    - 언두로그
+    - 쿼리동작 방식
+- Join
+- 이상 현상과 정규화, 역정규화
+- 트랜잭션
+    - 트랜잭션 개념
+    - ACID
+    - Commit, Rollback
+    - 트랜잭션 격리수준
+    - LOCK, 교착상태
+- 인덱스
+    - 인덱스 개념
+    - 인덱스 종류
+    - Clustered index, Non-Clustered index, Covering index
+    - 인덱스 자료구조(B-Tree 인덱스, B+Tree 인덱스)
+- 옵티마이저
+- 실행계획
+- Master/Slave
+- Sharding
+- CAP 이론
+- NoSQL
+    - NoSQL의 개념
+    - RDB VS NoSQL
+    - Redis, Memcached
+        - 캐싱 전략
+- Elastic Search
